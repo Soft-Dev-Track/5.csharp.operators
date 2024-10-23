@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Operators
 {
-    internal class Solution
+    public class Solution
     {
+        //
     }
 }
