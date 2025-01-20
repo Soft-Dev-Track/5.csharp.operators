@@ -194,4 +194,6 @@ Create a program that asks for two numbers and determines which one is the maxim
  }
 ```
 
+--- 
+
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--o3gw5hnt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media2.giphy.com/media/l2Je4zlfxF6z0IWZi/giphy.gif%3Fcid%3Decf05e47s4y1w2cljqpgb4z4x8xef2mqep0g9tiw761im2cf%26rid%3Dgiphy.gif%26ct%3Dg)
